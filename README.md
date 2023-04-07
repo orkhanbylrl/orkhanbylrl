@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Orkhan</h1>
 <h3 align="center">A passionate backend developer from Azerbaijan</h3>
-<img img align="right" alt="Coding" width="400" height="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+<img img align="right" alt="Coding" width="200" height="200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orkhanbylrl&label=Profile%20views&color=0e75b6&style=flat" alt="orkhanbylrl" /> </p>
 
